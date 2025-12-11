@@ -33,6 +33,6 @@ __pycache__/
 Thumbs.db
 
 # Project specific
-*.html
+#*.html
 *.pdf
 
